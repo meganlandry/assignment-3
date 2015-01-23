@@ -1,6 +1,6 @@
 h1 {
 	color: #79756f;
-	font-family: 'Bevan', cursive;
+	font-family: 'Bevan', normal;
 	font-weight: normal;
 	font-size: 2rem;
 	line-height: 1;
@@ -8,12 +8,12 @@ h1 {
 
 h2 {
 	color: #79756f;
-	font-family: 'Bevan', cursive;
+	font-family: 'Bevan', normal;
 }
 
 h3 {
 	color: #79756f;
-	font-family: 'Bevan', cursive;
+	font-family: 'Bevan', normal;
 }
 
 html {
@@ -40,4 +40,10 @@ a {
 
 a:hover {
 	color: red;
+}
+
+blockquote {
+	color: #79756f;
+	text-align: right;
+	font-size: 0.7rem;
 }
