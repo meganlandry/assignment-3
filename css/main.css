@@ -1,7 +1,12 @@
 h1 {
-	color: #79756f
-	font-family: 
+	color: #79756f;
+	font-family: 'Bevan', cursive;
 	font-weight: normal;
 	font-size: 2rem;
 	line-height: 1;
+}
+
+h2 {
+	color: #79756f;
+	font-family: 'Bevan', cursive;
 }
