@@ -10,3 +10,34 @@ h2 {
 	color: #79756f;
 	font-family: 'Bevan', cursive;
 }
+
+h3 {
+	color: #79756f;
+	font-family: 'Bevan', cursive;
+}
+
+html {
+	background-color: #dbd6cf;
+	color: #fff;
+}
+
+
+dl {
+	color: #000000;
+}
+
+body {
+	color: #000000;
+}
+
+q {
+	font-size: 1.5rem;
+}
+
+a {
+	color: #713837;
+}
+
+a:hover {
+	color: red;
+}
