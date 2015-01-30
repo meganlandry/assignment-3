@@ -59,3 +59,8 @@ figcaption {
 dl {
 	line-height: 0.5;
 }
+
+b {
+	color: #79756f;
+	font-weight: normal;
+}
